@@ -1,0 +1,6 @@
++tts
++custom response functions not working?!
++implementing google assistant (https://developers.google.com/assistant/sdk/reference/rpc/)
+ -clojure grpc implemetation
++adding text support (same as audio)
+?images to deepthought and return
